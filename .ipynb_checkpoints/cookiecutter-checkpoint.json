@@ -1,0 +1,18 @@
+{
+    "project": "project",
+    "raw_data_dir": "01_raw_data",
+    "raw_to_preprocesses_dir": "02_raw_to_preprocessed",
+    "preprocessor": "preprocessor",
+    "preprocessed_data_dir": "03_preprocessed_data",
+    "preprocessed_to_processed_dir": "04_preprocessed_to_processed",
+    "processor": "processor",
+    "processed_data_dir": "05_processed_data",
+    "model_analysis_dir": "06_model_analysis",
+    "modeling_dir": "07_modeling",
+    "model": "model",
+    "analytics_dir": "08_analytics",
+    "analytics": "analytics",
+    "model_analytics": "model_analytics",
+    "models_dir": "09_models",
+    "readme": "readme"
+}
